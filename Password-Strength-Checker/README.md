@@ -1,4 +1,3 @@
-```
 # Password Strength Checker
 
 ## Description
@@ -19,7 +18,6 @@ This Python script checks the strength of a password based on several criteria s
 5. The script will output the strength of the password based on predefined criteria.
 
 ## Example
-```
 $ python password_strength_checker.py
 
 --------------------------------------
@@ -29,11 +27,10 @@ Password Strength Checker By Sovan Das
 Enter your password: [Enter your password here]
 
 Your password strength evaluation will be displayed here.
-```
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or new features to add, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Author
 [Sovan Das](https://github.com/imsovandaa)
-```
+
