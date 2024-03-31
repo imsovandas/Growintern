@@ -32,5 +32,5 @@ Your password strength evaluation will be displayed here.
 Contributions are welcome! If you have any suggestions, improvements, or new features to add, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Author
-[Sovan Das](https://github.com/imsovandaa)
+Linkdin : [Sovan Das]([https://github.com/imsovandas](https://www.linkedin.com/in/sovanking))
 
