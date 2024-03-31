@@ -1,7 +1,39 @@
-GROWINTERN INTERNSHIP
-### by Sovan Das
+```
+# Password Strength Checker
 
+## Description
+This Python script checks the strength of a password based on several criteria such as length, presence of uppercase and lowercase letters, digits, special characters, and common patterns.
 
-I'm thrilled to announce the development of a Password Strength Checker project, designed to create a password-strength testing tool. This tool aims to analyze factors like length, complexity, and inclusion of special characters to accurately determine the strength level of passwords.
+## Features
+- Validates password strength against minimum length requirement
+- Checks for a mix of uppercase and lowercase letters
+- Ensures the presence of at least one digit and one special character
+- Identifies and warns against common consecutive character sequences
+- Alerts about repeated characters in the password
 
-I'm grateful to Growintern for providing me with the opportunity to work on such a meaningful project and expand my skills in cybersecurity.
+## Usage
+1. Clone the repository to your local machine.
+2. Navigate to the directory containing the script.
+3. Run the script using Python: `python password_strength_checker.py`.
+4. Enter the password when prompted.
+5. The script will output the strength of the password based on predefined criteria.
+
+## Example
+```
+$ python password_strength_checker.py
+
+--------------------------------------
+Password Strength Checker By Sovan Das
+--------------------------------------
+
+Enter your password: [Enter your password here]
+
+Your password strength evaluation will be displayed here.
+```
+
+## Contributing
+Contributions are welcome! If you have any suggestions, improvements, or new features to add, feel free to fork the repository, make your changes, and submit a pull request.
+
+## Author
+[Sovan Das](https://github.com/imsovandaa)
+```
